@@ -169,7 +169,7 @@ footer {
 
 footer > p {
   margin: 2rem;
-  text-align: center; font-size: 2rem;
+  text-align: center; font-size: 2rem; color: aliceblue;
 }
 
 footer i {
